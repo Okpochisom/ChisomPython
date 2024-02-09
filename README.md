@@ -1,1 +1,1 @@
-# Python
+# Python for absolute beginners
